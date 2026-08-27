@@ -36,7 +36,7 @@
     - The password is never exported to Excel.
     - No tenant-specific account is hard-coded.
 
-    Repository     : https://github.com/<YOUR-GITHUB-USERNAME>/Microsoft-Teams-Membership-Export
+    Repository     : https://github.com/abderlahmanalhnedi/Teams-Membership-Export
 
 .EXAMPLE
     PS C:\Scripts> .\Teams-Membership-Export.ps1
